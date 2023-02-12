@@ -60,7 +60,7 @@ public class Menu
             break;
       
           case 2:
-            System.out.println("Worked on this project Kobey Mukhammedamin, Omar Nurmukhammed, Karpachev Alen");
+            System.out.println("Worked on this project Zhumabek Beksultan");
             mainMenu(acc);
             break;
       
